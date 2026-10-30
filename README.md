@@ -63,8 +63,8 @@ Building real-world solutions through code, problem-solving, and continuous lear
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=11jagan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats Card for 11jagan" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11jagan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages Card for 11jagan" height="160"/>
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats Card for 11jagan" height="160"/>
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages Card for 11jagan" height="160"/>
 </p>
 
 <p align="center">
